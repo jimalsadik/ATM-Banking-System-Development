@@ -18,7 +18,7 @@ Email: jimalsadik@gmail.com
 
 * MD. Ferdous Al Murad Shuvo,
 [Department of Computer Science & Engineering, BAUET](http://bauet.ac.bd/cse.html)
-Email: ferdousalmurad.com
+Email: ferdousalmurad@gmail.com
 
 * Faisal Hossain Rabbany,
 [Department of Computer Science & Engineering, BAUET](http://bauet.ac.bd/cse.html)
