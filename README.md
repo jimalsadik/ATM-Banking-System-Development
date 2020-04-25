@@ -29,7 +29,7 @@ Email: ferdousalmurad@gmail.com
 * Md. Tohidur Rahman Ashish,
 [Department of Computer Science & Engineering, BAUET](http://bauet.ac.bd/cse.html)
 
-* Rangan Mahanta Dibosh,
+* Rangan M0hanta Dibosh,
 [Department of Computer Science & Engineering, BAUET](http://bauet.ac.bd/cse.html)
 
 ## Supervised By:
