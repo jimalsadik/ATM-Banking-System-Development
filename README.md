@@ -8,7 +8,7 @@ Java Based ATM Banking System Software for [Bangladesh Army University of Engine
 * SQLite -- Database
 * Sublime Text -- Text Editor
 
-## A complete social website for all BAUETians. Like Facebook, Twitter & other social site. 
+## A complete Java Based ATM Banking System Software. 
 
 ## Developed by:
 
