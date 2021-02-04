@@ -22,15 +22,19 @@ Email: ferdousalmurad@gmail.com
 
 * Faisal Hossain Rabbany,
 [Department of Computer Science & Engineering, BAUET](http://bauet.ac.bd/cse.html)
+Email: rabbycroxz@gmail.com
 
 * Tashrif  Al  Hussain Pranto,
 [Department of Computer Science & Engineering, BAUET](http://bauet.ac.bd/cse.html)
+Email: tashrifalhussain@gmail.com
 
 * Md. Tohidur Rahman Ashish,
 [Department of Computer Science & Engineering, BAUET](http://bauet.ac.bd/cse.html)
+Email: mr.ashishh1@gmail.com
 
-* Rangan M0hanta Dibosh,
+* Rangan Mohanta Dibosh,
 [Department of Computer Science & Engineering, BAUET](http://bauet.ac.bd/cse.html)
+Email: rangan.mohanta.dibosh@gmail.com
 
 ## Supervised By:
 
